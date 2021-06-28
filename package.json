@@ -10,5 +10,8 @@
   },
   "scripts": {
     "test": "jest"
+  },
+  "dependencies": {
+    "extenso": "^2.0.1"
   }
 }
